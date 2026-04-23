@@ -1,0 +1,5 @@
+pregunta 4: reflexion de la semana 
+
+respuesta: El uso responsable de la información en internet es clave para una participación ciudadana efectiva, ya que fomenta la difusión de la verificación de datos y nos ayuda con las desinformación, fortaleciendo el debate público y la confianza social.
+De esta manera, se conecta con la organización del trabajo técnico mediante herramientas como Git, la cual promueve la colaboración ética al rastrear cambios, revisar contribuciones y asegurar transparencia en proyectos compartidos, similar a verificar fuentes antes de compartir.
+Ambos enfoques representan la responsabilidad digital y el control de versiones que habilitan una ciudadanía activa y organizada, donde individuos y equipos contribuyen de manera confiable a comunidades digitales o técnicas, reduciendo errores y promoviendo la responsabilidad.
