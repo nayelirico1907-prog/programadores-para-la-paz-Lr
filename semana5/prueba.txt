@@ -1,0 +1,5 @@
+http://localhost:3000 es la ruta raíz /; normalmente se usa como entrada principal de la app, por ejemplo la página de inicio o portada .
+
+http://localhost:3000/saludo es una ruta fija; siempre responde lo mismo que tú programes para /saludo, como un mensaje de bienvenida .
+
+http://localhost:3000/mensaje/juan parece una ruta con parámetro dinámico, algo como /mensaje/:nombre; en ese caso juan se captura desde la URL y el servidor puede usarlo para personalizar la respuesta
