@@ -1,0 +1,15 @@
+
+ conceptos-api.txt: LEYLA NAYELI PEÑA RICO <nayelirico1907@gmail.com>
+mié, 27 may, 21:47 (hace 22 horas)
+para mí
+
+http://localhost:3000 es la ruta raíz /; normalmente se usa como entrada principal de la app, por ejemplo la página de inicio o portada .
+
+http://localhost:3000/saludo es una ruta fija; siempre responde lo mismo que tú programes para /saludo, como un mensaje de bienvenida .
+
+http://localhost:3000/mensaje/juan parece una ruta con parámetro dinámico, algo como /mensaje/:nombre; en ese caso juan se captura desde la URL y el servidor puede usarlo para personalizar la respuesta
+
+
+¿Para qué podría servir en una aplicación comunitaria?idea es que esas rutas ayudan a organizar funciones distintas dentro de una app usada por vecinos, líderes barriales, voluntarios o usuarios de una comunidad, porque cada URL puede representar una pantalla, una acción o un mensaje específico.
+
+En una app comunitaria, la ruta / podría servir como página principal del barrio o la organización, donde se muestran avisos, eventos, servicios, horarios o enlaces importantes. Tener una ruta base así permite que todas las personas entren al mismo punto de inicio y desde ahí naveguen al resto de funciones.
